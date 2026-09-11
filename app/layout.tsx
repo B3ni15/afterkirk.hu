@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "After Kirk",
-  description: "A timer that tells you how many time has passed since the death of Charli Kirk.",
+  description: "A timer that tells you how many time has passed since the death of Charlie Kirk.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
